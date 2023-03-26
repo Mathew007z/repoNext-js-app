@@ -6,7 +6,7 @@
 .navigation {
   display: flex;
   list-style: none;
-  gap: 32px;
+  gap: 180px;
   margin-left: 2em;
 }
 
